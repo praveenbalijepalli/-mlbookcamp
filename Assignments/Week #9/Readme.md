@@ -1,5 +1,5 @@
  
-## To run the model locally 
+# To run the model locally 
 Due to file size restrictions, the keras and tflite models could not be uploaded to the repository. <br>
 
 1. To download keras model and create the tflite model, run the command in a terminal: `python convert_keras_to_tflite.py`
