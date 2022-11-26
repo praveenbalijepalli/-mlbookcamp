@@ -8,5 +8,5 @@
 5. [Week #5 Homework](https://github.com/praveenbalijepalli/mlbookcamp/blob/main/Assignments/Week%20%235/Homework.ipynb)
 6. [Week #6 Homework](https://github.com/praveenbalijepalli/mlbookcamp/blob/main/Assignments/Week%20%236/Homework.ipynb)
 7. [Week #7 Homework](https://github.com/praveenbalijepalli/mlbookcamp/tree/main/Assignments/Week%20%237/Homework.ipynb)
-8. [Week #8 Homework](https://github.com/praveenbalijepalli/mlbookcamp/tree/main/Assignments/Week%20%238/Homework.ipynb)
+8. [Week #8 Homework](https://github.com/praveenbalijepalli/mlbookcamp/tree/main/Assignments/Week%20%238)
 9. [Week #9 Homework](https://github.com/praveenbalijepalli/mlbookcamp/tree/main/Assignments/Week%20%239)
